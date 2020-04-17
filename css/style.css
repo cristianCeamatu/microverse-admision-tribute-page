@@ -1,0 +1,21 @@
+#main {
+  width: 80%;
+  margin: auto;
+}
+
+#img-div img {
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+p,
+h1,
+h3 {
+  text-align: center;
+  padding: 10px;
+}
+
+ul li {
+  text-align: left;
+}
