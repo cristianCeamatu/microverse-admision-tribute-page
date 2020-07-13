@@ -6,8 +6,8 @@
 
 ![screenshot](./screenshot.png)
 
-It was build in pair programming with [didas](https://github.com/didasmbalanya)
-The page is mobile responsive.
+> It was build in pair programming with [didas](https://github.com/didasmbalanya)
+> The page is mobile responsive.
 
 ## Built With
 
